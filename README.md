@@ -42,6 +42,9 @@
 - Tap on a destination card to view details and add to favorites.
 - Refer to the guidelines section for tips on responsible tourism.
 
+![demo1](assets/TraveleeSigningDemo.gif)
+![demo2](assets/TraveleeFeaturesDemo-2.gif)
+
 ## Project Structure
 
 - `app/src/main/java/com/travelee/signing/components/`: Reusable UI components (cards, buttons, chips, etc.)
@@ -61,9 +64,11 @@
 
 Contributions are welcome! Please fork the repository, create a pull request, and describe your changes.
 
-## License
+## Acknowledgement
 
-MIT License (see [LICENSE](LICENSE))
+This repository is a Capstone Project as part of one the graduation criteria from Bangkit Academy led by Google and Goto. And thereby, My team has successfully qualified as one of the 20 best capstone projects accross the hundreds other, and thereby we got the incubation offer from the later program.
+![certificate](assets/Screen Shot 2025-09-10 at 14.22.30.png)
+![offer](assets/Screen Shot 2025-09-10 at 14.31.46.png)
 
 ## Author
 
