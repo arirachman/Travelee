@@ -67,8 +67,8 @@ Contributions are welcome! Please fork the repository, create a pull request, an
 ## Acknowledgement
 
 This repository is a Capstone Project as part of one the graduation criteria from Bangkit Academy led by Google and Goto. And thereby, My team has successfully qualified as one of the 20 best capstone projects accross the hundreds other, and thereby we got the incubation offer from the later program.
-![certificate](assets/Screen Shot 2025-09-10 at 14.22.30.png)
-![offer](assets/Screen Shot 2025-09-10 at 14.31.46.png)
+![certificate](assets/certificate.png)
+![offer](assets/incubationoffer.png)
 
 ## Author
 
